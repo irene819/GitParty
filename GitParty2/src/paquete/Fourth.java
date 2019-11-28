@@ -1,1 +1,1 @@
-Fourth
+public class Fourth {}
